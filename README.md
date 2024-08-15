@@ -10,6 +10,6 @@
 ![image](https://github.com/user-attachments/assets/ab6782a8-7b48-4b13-bae9-39e1c648ed71)
 
 
-* ON-CLICK of Add button
+* ON-CLICK of Generate Password Button and Add Button
 
 ![image](https://github.com/user-attachments/assets/72ec0e90-c0f9-4457-a799-22d7928e1d71)
